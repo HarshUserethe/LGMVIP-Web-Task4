@@ -1,6 +1,6 @@
 
 ## LGMVIP-Web-Task4
-- Task-3: Create a Calculator App Using HTML, CSS & JS  
+- Task-4: Create a Calculator App Using HTML, CSS & JS  
 
 - Code Editor: VS Code   
 
